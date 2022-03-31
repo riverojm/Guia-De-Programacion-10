@@ -14,11 +14,11 @@ public class Ejercicio6 : MonoBehaviour
             resto = n1 % 2;
             if (resto == 0)
             {
-                Debug.Log("el numero es impar");
+                Debug.Log("el numero es par");
             }
             else
             {
-                Debug.Log("el numero es par");
+                Debug.Log("el numero es impar");
             }
         }
         else
